@@ -7,7 +7,7 @@
             <div class="navbar-brand">
                 <a href="/" class="logo">
                     <img class="navbar-logo-img" src="{{asset('/static-common/img/logo.png')}}" alt=""/>
-                    <p class="navbar-slogan">Coding For Fun</p>
+                    <p class="navbar-slogan">个人的内容记录</p>
                 </a>
             </div>
 
