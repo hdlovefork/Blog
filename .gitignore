@@ -28,3 +28,4 @@ yarn-error.log
 /public/media-store/
 /public/uploads/
 /public/xmind-temp/
+/.idea
